@@ -29,11 +29,11 @@ Email: ndas2 at umbc.edu
 
 ## Teaching Experience
 
-**Graduate Teaching Assistant (CMSC 426 Principles of Computer Security), UMBC (_January 2024 - May 2024_)**
+<p align="justify">Graduate Teaching Assistant (CMSC 426 Principles of Computer Security), UMBC (_January 2024 - May 2024_)</p>
 
-**Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (_August 2023 - December 2023_)**
+<p align="justify">Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (_August 2023 - December 2023_)</p>
 
-**Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (_August 2021 - May 2022_)**
+<p align="justify">Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (_August 2021 - May 2022_)</p>
 
 
 ## Work Experience
