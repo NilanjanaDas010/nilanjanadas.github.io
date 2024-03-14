@@ -4,9 +4,9 @@
 
 ## About me
 
-<p align="justify">I am currently a Ph.D. in Computer science student at the University of Maryland, Baltimore County. My Ph.D. advisor is [Dr. Manas Gaur](https://manasgaur.github.io/). My current research focuses on situation-driven adversarial attacks on large language models (LLMs) like Llama-2.</p>
+<p align="justify">I am currently a Ph.D. in Computer science student at the University of Maryland, Baltimore County. My Ph.D. advisor is <a href="https://manasgaur.github.io/">Dr. Manas Gaur</a>. My current research focuses on situation-driven adversarial attacks on large language models (LLMs) like Llama-2.</p>
 
-<p align="justify">I have also done M.S. in Computer Science from the University of Maryland, Baltimore County. My M.S. advisor was [Dr. Anupam Joshi](https://cybersecurity.umbc.edu/anupam-joshi/). My master's research focused on creating a digital twin on the cloud and designing functional tests using generative modeling.</p>
+<p align="justify">I have also done M.S. in Computer Science from the University of Maryland, Baltimore County. My M.S. advisor was <a href="https://cybersecurity.umbc.edu/anupam-joshi/">Dr. Anupam Joshi</a>. My master's research focused on creating a digital twin on the cloud and designing functional tests using generative modeling.</p>
 
 ## Education
 - Ph.D., Computer Science | University of Maryland, Baltimore County (2023-Present)								       		
