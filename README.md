@@ -1,8 +1,8 @@
 ## About me
 
-<p align="justify">I am currently a Ph.D. in Computer Science student at the University of Maryland, Baltimore County (UMBC). My Ph.D. advisor is <a href="https://manasgaur.github.io/">Dr. Manas Gaur</a>. My current research focuses on situation-driven adversarial attacks on large language models (LLMs) like Llama-2.</p>
+<p align="justify" style="color:black;">I am currently a Ph.D. in Computer Science student at the University of Maryland, Baltimore County (UMBC). My Ph.D. advisor is <a href="https://manasgaur.github.io/">Dr. Manas Gaur</a>. My current research focuses on situation-driven adversarial attacks on large language models (LLMs) like Llama-2.</p>
 
-<p align="justify">I am also concurrently pursuing M.S. in Computer Science from the University of Maryland, Baltimore County (UMBC). My M.S. advisor is <a href="https://cybersecurity.umbc.edu/anupam-joshi/">Dr. Anupam Joshi</a>. My master's research focuses on creating a digital twin for IoT devices on the cloud and designing functional tests using generative modeling.</p>
+<p align="justify" style="color:black;">I am also concurrently pursuing M.S. in Computer Science from the University of Maryland, Baltimore County (UMBC). My M.S. advisor is <a href="https://cybersecurity.umbc.edu/anupam-joshi/">Dr. Anupam Joshi</a>. My master's research focuses on creating a digital twin for IoT devices on the cloud and designing functional tests using generative modeling.</p>
 
 #### Relevant Technical Skills: Python, Azure, AWS, Large Language Models
 
