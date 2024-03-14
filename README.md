@@ -1,17 +1,16 @@
-# nilanjanadas.github.io
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
 ## About me
 
 <p align="justify">I am currently a Ph.D. in Computer science student at the University of Maryland, Baltimore County. My Ph.D. advisor is <a href="https://manasgaur.github.io/">Dr. Manas Gaur</a>. My current research focuses on situation-driven adversarial attacks on large language models (LLMs) like Llama-2.</p>
 
 <p align="justify">I have also done M.S. in Computer Science from the University of Maryland, Baltimore County. My M.S. advisor was <a href="https://cybersecurity.umbc.edu/anupam-joshi/">Dr. Anupam Joshi</a>. My master's research focused on creating a digital twin on the cloud and designing functional tests using generative modeling.</p>
 
-## Education
-- Ph.D., Computer Science | University of Maryland, Baltimore County (2023-Present)								       		
-- M.S., Computer Science	| University of Maryland, Baltimore County (2021-Present)	 			        		
-- B.Tech., Information Technology | Kalinga Institute of Industrial Technology (2019)
+[CV](/assets/img/Nilanjana-Das-CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=Mtt01lIAAAAJ&hl=en)
+
+## Contact
+
+Email: ndas2 at umbc.edu
+
+[LinkedIn](https://www.linkedin.com/in/nilanjana-das-390740169/) [Github](https://github.com/Nilanjana010)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
@@ -48,10 +47,10 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Das, Nilanjana, et al. "Change management using generative modeling on digital twins." 2023 IEEE International Conference on Intelligence and Security Informatics (ISI). IEEE, 2023.
-2. Kotal, Anantaa, Nilanjana Das, and Anupam Joshi. "Knowledge Infusion in Privacy Preserving Data Generation." KDD Workshop on Knowledge-infused Learning, 29TH ACM SIGKDD,. 2023.
-3. Das, Nilanjana, Santwana Sagnika, and Bhabani Shankar Prasad Mishra. "Role of Machine Learning in Big Data." Applications of Machine Learning in Big-Data Analytics and Cloud Computing. River Publishers, 2022. 139-163.
-4. Sagnika, Santwana, et al. "Analytical Review on Techniques and Challenges in Sentiment Analysis." Empirical Research for Futuristic E-Commerce Systems: Foundations and Applications (2022): 131-158.
-5. Das, Nilanjana, and Santwana Sagnika. "A subjectivity detection-based approach to sentiment analysis." Machine Learning and Information Processing: Proceedings of ICMLIP 2019. Springer Singapore, 2020.
+<p align="justify">1. Das, Nilanjana, et al. "Change management using generative modeling on digital twins." 2023 IEEE International Conference on Intelligence and Security Informatics (ISI). IEEE, 2023.</p>
+<p align="justify">2. Kotal, Anantaa, Nilanjana Das, and Anupam Joshi. "Knowledge Infusion in Privacy Preserving Data Generation." KDD Workshop on Knowledge-infused Learning, 29TH ACM SIGKDD,. 2023.</p>
+<p align="justify">3. Das, Nilanjana, Santwana Sagnika, and Bhabani Shankar Prasad Mishra. "Role of Machine Learning in Big Data." Applications of Machine Learning in Big-Data Analytics and Cloud Computing. River Publishers, 2022. 139-163.</p>
+<p align="justify">4. Sagnika, Santwana, et al. "Analytical Review on Techniques and Challenges in Sentiment Analysis." Empirical Research for Futuristic E-Commerce Systems: Foundations and Applications (2022): 131-158.</p>
+<p align="justify">5. Das, Nilanjana, and Santwana Sagnika. "A subjectivity detection-based approach to sentiment analysis." Machine Learning and Information Processing: Proceedings of ICMLIP 2019. Springer Singapore, 2020.</p>
 
 - [Data Science Blog](https://medium.com/@shawhin)
