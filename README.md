@@ -49,7 +49,7 @@
 
 ## News
 
-<p align="justify" style="color:black;">Presented our paper, "Change management using generative modeling on digital twins." at IEEE International Conference on Intelligence and Security Informatics (ISI) 2023 in Charlotte, North Carolina, USA.</p>
+<p align="justify" style="color:black;">Presented our paper, "Change management using generative modeling on digital twins." at IEEE International Conference on Intelligence and Security Informatics (ISI) 2023 in Charlotte, North Carolina, USA. (October 2023)</p>
 
-<p align="justify" style="color:black;">Presented our paper, "A subjectivity detection-based approach to sentiment analysis." at Machine Learning and Information Processing: Proceedings of ICMLIP 2019 in Pune, India.</p>
+<p align="justify" style="color:black;">Presented our paper, "A subjectivity detection-based approach to sentiment analysis." at Machine Learning and Information Processing: Proceedings of ICMLIP 2019 in Pune, India. (December 2019)</p>
 
