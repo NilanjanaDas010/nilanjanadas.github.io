@@ -29,21 +29,17 @@ Email: ndas2 at umbc.edu
 
 ## Teaching Experience
 
-<p align="justify">Graduate Teaching Assistant (CMSC 426 Principles of Computer Security), UMBC (_January 2024 - May 2024_)</p>
+<p align="justify">- Graduate Teaching Assistant (CMSC 426 Principles of Computer Security), UMBC (_January 2024 - May 2024_)</p>
 
-<p align="justify">Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (_August 2023 - December 2023_)</p>
+<p align="justify">- Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (_August 2023 - December 2023_)</p>
 
-<p align="justify">Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (_August 2021 - May 2022_)</p>
+<p align="justify">- Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (_August 2021 - May 2022_)</p>
 
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Industry Experience
+<p align="justify">- Assistant System Engineer @ Tata Consultancy Services Limited, India (_August 2019 – July 2021_)</p>
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+<p align="justify">- Software Engineer Trainee @ Aricent Technologies (Holdings) Limited, India (_February 2019 – July 2019_)</p>
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
