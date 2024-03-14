@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Computer Science | University of Maryland, Baltimore County (2023-Present)								       		
+- M.S., Computer Science	| University of Maryland, Baltimore County (2021-Present)	 			        		
+- B.Tech., Information Technology | Kalinga Institute of Industrial Technology (2019)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
