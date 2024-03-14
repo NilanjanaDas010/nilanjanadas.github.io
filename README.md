@@ -1,16 +1,16 @@
 ## About me
 
-<p align="justify">I am currently a Ph.D. in Computer science student at the University of Maryland, Baltimore County. My Ph.D. advisor is <a href="https://manasgaur.github.io/">Dr. Manas Gaur</a>. My current research focuses on situation-driven adversarial attacks on large language models (LLMs) like Llama-2.</p>
+<p align="justify">I am currently a Ph.D. in Computer science student at the University of Maryland, Baltimore County (UMBC). My Ph.D. advisor is <a href="https://manasgaur.github.io/">Dr. Manas Gaur</a>. My current research focuses on situation-driven adversarial attacks on large language models (LLMs) like Llama-2.</p>
 
-<p align="justify">I have also done M.S. in Computer Science from the University of Maryland, Baltimore County. My M.S. advisor was <a href="https://cybersecurity.umbc.edu/anupam-joshi/">Dr. Anupam Joshi</a>. My master's research focused on creating a digital twin on the cloud and designing functional tests using generative modeling.</p>
+<p align="justify">I have also done M.S. in Computer Science from the University of Maryland, Baltimore County (UMBC). My M.S. advisor was <a href="https://cybersecurity.umbc.edu/anupam-joshi/">Dr. Anupam Joshi</a>. My master's research focused on creating a digital twin on the cloud and designing functional tests using generative modeling.</p>
 
-[CV](/assets/img/Nilanjana-Das-CV.pdf)  [Google Scholar](https://scholar.google.com/citations?user=Mtt01lIAAAAJ&hl=en)
+[CV](/assets/img/Nilanjana-Das-CV.pdf)    [Google Scholar](https://scholar.google.com/citations?user=Mtt01lIAAAAJ&hl=en)
 
 ## Contact
 
 Email: ndas2 at umbc.edu
 
-[LinkedIn](https://www.linkedin.com/in/nilanjana-das-390740169/)  [Github](https://github.com/Nilanjana010)
+[LinkedIn](https://www.linkedin.com/in/nilanjana-das-390740169/)    [Github](https://github.com/Nilanjana010)
 
 ## Publications
 <p align="justify">1. Das, Nilanjana, et al. "Change management using generative modeling on digital twins." 2023 IEEE International Conference on Intelligence and Security Informatics (<a href="https://ieee-isi.org/2023/">ISI</a>). IEEE, 2023.</p>
@@ -21,10 +21,10 @@ Email: ndas2 at umbc.edu
 
 ## Research Experience
 
-**Graduate Student Researcher @ Knowledge-infused AI and Inference Lab( KAI2), University of Maryland, Baltimore County  (_August 2023 - Present_)**
+**Graduate Student Researcher @ Knowledge-infused AI and Inference Lab( KAI2), UMBC  (_August 2023 - Present_)**
 - Project: Situation-Driven Contextual Adversarial Prompt Attacks on Large Language Models like Llama-2
 
-**Graduate Research Assistant @ UMBC Ebiquity Lab, University of Maryland, Baltimore County  (_June 2022 - May 2023_)**
+**Graduate Research Assistant @ UMBC Ebiquity Lab, UMBC  (_June 2022 - May 2023_)**
 - Project: Change Management using Generative Modeling on Digital Twins
 
 ## Work Experience
