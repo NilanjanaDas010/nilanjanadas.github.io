@@ -2,6 +2,12 @@
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
+##About me
+
+I am currently a Ph.D. in Computer science student at the University of Maryland, Baltimore County. My Ph.D. advisor is [Dr. Manas Gaur](https://manasgaur.github.io/). My current research focuses on situation-driven adversarial attacks on large language models (LLMs) like Llama-2.
+
+I have also done M.S. in Computer Science from the University of Maryland, Baltimore County. My M.S. advisor was [Dr. Anupam Joshi](https://cybersecurity.umbc.edu/anupam-joshi/). My master's research focused on creating a digital twin on the cloud and designing functional tests using generative modeling.
+
 ## Education
 - Ph.D., Computer Science | University of Maryland, Baltimore County (2023-Present)								       		
 - M.S., Computer Science	| University of Maryland, Baltimore County (2021-Present)	 			        		
