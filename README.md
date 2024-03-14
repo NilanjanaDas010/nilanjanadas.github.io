@@ -24,16 +24,16 @@ Email: ndas2 at umbc.edu
 ## Research Experience
 
 **Graduate Student Researcher @ Knowledge-infused AI and Inference Lab( KAI2), UMBC (_August 2023 - Present_)**
-<p align="justify">- Project: Situation-Driven Contextual Adversarial Prompt Attacks on Large Language Models like Llama-2
+<p align="justify">- Project: Situation-Driven Contextual Adversarial Prompt Attacks on Large Language Models like Llama-2.</p>
 **Graduate Research Assistant @ UMBC Ebiquity Lab, UMBC (_June 2022 - May 2023_)**
-<p align="justify">- Project: Change Management using Generative Modeling on Digital Twins
+<p align="justify">- Project: Change Management using Generative Modeling on Digital Twins.</p>
 
 ## Teaching Experience
 
 **Graduate Teaching Assistant @ Department of Computer Science and Electrical Engineering, UMBC**
-<p align="justify">- Course: CMSC 426 Principles of Computer Security     (January 2024 - May 2024)
-<p align="justify">- Course: CMSC 441 Design and Analysis of Algorithms   (August 2023 - December 2023)
-<p align="justify">- Course: CMSC 441 Design and Analysis of Algorithms   (August 2021 - May 2022)
+<p align="justify">- Course: CMSC 426 Principles of Computer Security     (January 2024 - May 2024)</p>
+<p align="justify">- Course: CMSC 441 Design and Analysis of Algorithms   (August 2023 - December 2023)</p>
+<p align="justify">- Course: CMSC 441 Design and Analysis of Algorithms   (August 2021 - May 2022)</p>
 
 ## Industry Experience
 **Assistant System Engineer @ Tata Consultancy Services Limited, India (August 2019 – July 2021)**
