@@ -29,17 +29,17 @@ Email: ndas2 at umbc.edu
 
 ## Teaching Experience
 
-<p align="justify">- Graduate Teaching Assistant (CMSC 426 Principles of Computer Security), UMBC (_January 2024 - May 2024_)</p>
+<p align="justify">- Graduate Teaching Assistant (CMSC 426 Principles of Computer Security), UMBC (January 2024 - May 2024)</p>
 
-<p align="justify">- Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (_August 2023 - December 2023_)</p>
+<p align="justify">- Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (August 2023 - December 2023)</p>
 
-<p align="justify">- Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (_August 2021 - May 2022_)</p>
+<p align="justify">- Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (August 2021 - May 2022)</p>
 
 
 ## Industry Experience
-<p align="justify">- Assistant System Engineer @ Tata Consultancy Services Limited, India (_August 2019 – July 2021_)</p>
+<p align="justify">- Assistant System Engineer @ Tata Consultancy Services Limited, India (August 2019 – July 2021)</p>
 
-<p align="justify">- Software Engineer Trainee @ Aricent Technologies (Holdings) Limited, India (_February 2019 – July 2019_)</p>
+<p align="justify">- Software Engineer Trainee @ Aricent Technologies (Holdings) Limited, India (February 2019 – July 2019)</p>
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
