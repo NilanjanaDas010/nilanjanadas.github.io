@@ -10,7 +10,7 @@
 
 ## Contact
 
-Email: ndas2 at umbc.edu**
+Email: ndas2 at umbc.edu
 
 [LinkedIn](https://www.linkedin.com/in/nilanjana-das-390740169/)    [Github](https://github.com/Nilanjana010)
 
