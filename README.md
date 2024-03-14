@@ -21,13 +21,20 @@ Email: ndas2 at umbc.edu
 
 ## Research Experience
 
-**Graduate Student Researcher @ Knowledge-infused AI and Inference Lab( KAI2), UMBC**
-**(_August 2023 - Present_)**
+**Graduate Student Researcher @ Knowledge-infused AI and Inference Lab( KAI2), UMBC (_August 2023 - Present_)**
 - Project: Situation-Driven Contextual Adversarial Prompt Attacks on Large Language Models like Llama-2
 
-**Graduate Research Assistant @ UMBC Ebiquity Lab, UMBC**
-**(_June 2022 - May 2023_)**
+**Graduate Research Assistant @ UMBC Ebiquity Lab, UMBC (_June 2022 - May 2023_)**
 - Project: Change Management using Generative Modeling on Digital Twins
+
+## Teaching Experience
+
+**Graduate Teaching Assistant (CMSC 426 Principles of Computer Security), UMBC (_January 2024 - May 2024_)**
+
+**Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (_August 2023 - December 2023_)**
+
+**Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (_August 2021 - May 2022_)**
+
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
