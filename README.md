@@ -21,11 +21,11 @@ Email: ndas2 at umbc.edu
 
 ## Research Experience
 
-<p align="justify">**Graduate Student Researcher @ Knowledge-infused AI and Inference Lab( KAI2), University of Maryland, Baltimore County  (_August 2023 - Present_)**
-Project: Situation-Driven Contextual Adversarial Prompt Attacks on Large Language Models like Llama-2</p>
+**Graduate Student Researcher @ Knowledge-infused AI and Inference Lab( KAI2), University of Maryland, Baltimore County  (_August 2023 - Present_)**
+- Project: Situation-Driven Contextual Adversarial Prompt Attacks on Large Language Models like Llama-2
 
-<p align="justify">**Graduate Research Assistant @ UMBC Ebiquity Lab, University of Maryland, Baltimore County  (_June 2022 - May 2023_)**
-Project: Change Management using Generative Modeling on Digital Twins</p>
+**Graduate Research Assistant @ UMBC Ebiquity Lab, University of Maryland, Baltimore County  (_June 2022 - May 2023_)**
+- Project: Change Management using Generative Modeling on Digital Twins
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
