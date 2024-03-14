@@ -29,39 +29,21 @@ Email: ndas2 at umbc.edu
 
 ## Teaching Experience
 
-<p align="justify">- Graduate Teaching Assistant (CMSC 426 Principles of Computer Security), UMBC (January 2024 - May 2024)</p>
+<p align="justify">Graduate Teaching Assistant (CMSC 426 Principles of Computer Security), UMBC (January 2024 - May 2024)</p>
 
-<p align="justify">- Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (August 2023 - December 2023)</p>
+<p align="justify">Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (August 2023 - December 2023)</p>
 
-<p align="justify">- Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (August 2021 - May 2022)</p>
+<p align="justify">Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (August 2021 - May 2022)</p>
 
 
 ## Industry Experience
-<p align="justify">- Assistant System Engineer @ Tata Consultancy Services Limited, India (August 2019 – July 2021)</p>
+<p align="justify">Assistant System Engineer @ Tata Consultancy Services Limited, India (August 2019 – July 2021)</p>
 
-<p align="justify">- Software Engineer Trainee @ Aricent Technologies (Holdings) Limited, India (February 2019 – July 2019)</p>
+<p align="justify">Software Engineer Trainee @ Aricent Technologies (Holdings) Limited, India (February 2019 – July 2019)</p>
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## News
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+<p align="justify">Presented our paper, "Change management using generative modeling on digital twins." at IEEE International Conference on Intelligence and Security Informatics (ISI) 2023 in Charlotte, North Carolina, USA.</p>
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+<p align="justify">Presented our paper, "A subjectivity detection-based approach to sentiment analysis." at Machine Learning and Information Processing: Proceedings of ICMLIP 2019 in Pune, India.</p>
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
