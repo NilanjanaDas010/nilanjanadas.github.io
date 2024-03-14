@@ -25,7 +25,6 @@ Email: ndas2 at umbc.edu
 
 **Graduate Student Researcher @ Knowledge-infused AI and Inference Lab( KAI2), UMBC (_August 2023 - Present_)**
 <p align="justify">- Project: Situation-Driven Contextual Adversarial Prompt Attacks on Large Language Models like Llama-2
-
 **Graduate Research Assistant @ UMBC Ebiquity Lab, UMBC (_June 2022 - May 2023_)**
 <p align="justify">- Project: Change Management using Generative Modeling on Digital Twins
 
