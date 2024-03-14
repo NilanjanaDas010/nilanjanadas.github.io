@@ -4,13 +4,28 @@
 
 <p align="justify">I have also done M.S. in Computer Science from the University of Maryland, Baltimore County. My M.S. advisor was <a href="https://cybersecurity.umbc.edu/anupam-joshi/">Dr. Anupam Joshi</a>. My master's research focused on creating a digital twin on the cloud and designing functional tests using generative modeling.</p>
 
-[CV](/assets/img/Nilanjana-Das-CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=Mtt01lIAAAAJ&hl=en)
+[CV](/assets/img/Nilanjana-Das-CV.pdf)  [Google Scholar](https://scholar.google.com/citations?user=Mtt01lIAAAAJ&hl=en)
 
 ## Contact
 
 Email: ndas2 at umbc.edu
 
-[LinkedIn](https://www.linkedin.com/in/nilanjana-das-390740169/) [Github](https://github.com/Nilanjana010)
+[LinkedIn](https://www.linkedin.com/in/nilanjana-das-390740169/)  [Github](https://github.com/Nilanjana010)
+
+## Publications
+<p align="justify">1. Das, Nilanjana, et al. "Change management using generative modeling on digital twins." 2023 IEEE International Conference on Intelligence and Security Informatics (<a href="https://ieee-isi.org/2023/">ISI</a>). IEEE, 2023.</p>
+<p align="justify">2. Kotal, Anantaa, Nilanjana Das, and Anupam Joshi. "Knowledge Infusion in Privacy Preserving Data Generation." <a href="https://aiisc.ai/kiml2023/index.html">KDD Workshop on Knowledge-infused Learning</a>, 29TH ACM SIGKDD,. 2023.</p>
+<p align="justify">3. Das, Nilanjana, Santwana Sagnika, and Bhabani Shankar Prasad Mishra. "Role of Machine Learning in Big Data." Applications of Machine Learning in Big-Data Analytics and Cloud Computing. <a href="https://ieeexplore.ieee.org/document/9478284">River Publishers</a>, 2022. 139-163.</p>
+<p align="justify">4. Sagnika, Santwana, et al. "Analytical Review on Techniques and Challenges in Sentiment Analysis." <a href="https://www.igi-global.com/chapter/analytical-review-on-techniques-and-challenges-in-sentiment-analysis/309672">Empirical Research for Futuristic E-Commerce Systems: Foundations and Applications</a> (2022): 131-158.</p>
+<p align="justify">5. Das, Nilanjana, and Santwana Sagnika. "A subjectivity detection-based approach to sentiment analysis." Machine Learning and Information Processing: Proceedings of <a href="https://link.springer.com/chapter/10.1007/978-981-15-1884-3_14">ICMLIP 2019</a>. Springer Singapore, 2020.</p>
+
+## Research Experience
+
+<p align="justify">**Graduate Student Researcher @ Knowledge-infused AI and Inference Lab( KAI2), University of Maryland, Baltimore County  (_August 2023 - Present_)**
+Project: Situation-Driven Contextual Adversarial Prompt Attacks on Large Language Models like Llama-2</p>
+
+<p align="justify">**Graduate Research Assistant @ UMBC Ebiquity Lab, University of Maryland, Baltimore County  (_June 2022 - May 2023_)**
+Project: Change Management using Generative Modeling on Digital Twins</p>
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
@@ -45,12 +60,3 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-<p align="justify">1. Das, Nilanjana, et al. "Change management using generative modeling on digital twins." 2023 IEEE International Conference on Intelligence and Security Informatics (<a href="https://ieee-isi.org/2023/">ISI</a>). IEEE, 2023.</p>
-<p align="justify">2. Kotal, Anantaa, Nilanjana Das, and Anupam Joshi. "Knowledge Infusion in Privacy Preserving Data Generation." <a href="https://aiisc.ai/kiml2023/index.html">KDD Workshop on Knowledge-infused Learning</a>, 29TH ACM SIGKDD,. 2023.</p>
-<p align="justify">3. Das, Nilanjana, Santwana Sagnika, and Bhabani Shankar Prasad Mishra. "Role of Machine Learning in Big Data." Applications of Machine Learning in Big-Data Analytics and Cloud Computing. <a href="https://ieeexplore.ieee.org/document/9478284">River Publishers</a>, 2022. 139-163.</p>
-<p align="justify">4. Sagnika, Santwana, et al. "Analytical Review on Techniques and Challenges in Sentiment Analysis." <a href="https://www.igi-global.com/chapter/analytical-review-on-techniques-and-challenges-in-sentiment-analysis/309672">Empirical Research for Futuristic E-Commerce Systems: Foundations and Applications</a> (2022): 131-158.</p>
-<p align="justify">5. Das, Nilanjana, and Santwana Sagnika. "A subjectivity detection-based approach to sentiment analysis." Machine Learning and Information Processing: Proceedings of <a href="https://link.springer.com/chapter/10.1007/978-981-15-1884-3_14">ICMLIP 2019</a>. Springer Singapore, 2020.</p>
-
-- [Data Science Blog](https://medium.com/@shawhin)
