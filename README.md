@@ -15,11 +15,11 @@ Email: ndas2 at umbc.edu
 [LinkedIn](https://www.linkedin.com/in/nilanjana-das-390740169/)    [Github](https://github.com/Nilanjana010)
 
 ## Publications
-<p align="justify">1. Das, Nilanjana, et al. **"Change management using generative modeling on digital twins."** 2023 IEEE International Conference on Intelligence and Security Informatics (<a href="https://ieee-isi.org/2023/">ISI</a>). IEEE, 2023.</p>
-<p align="justify">2. Kotal, Anantaa, Nilanjana Das, and Anupam Joshi. **"Knowledge Infusion in Privacy Preserving Data Generation."** <a href="https://aiisc.ai/kiml2023/index.html">KDD Workshop on Knowledge-infused Learning</a>, 29TH ACM SIGKDD,. 2023.</p>
-<p align="justify">3. Das, Nilanjana, Santwana Sagnika, and Bhabani Shankar Prasad Mishra. **"Role of Machine Learning in Big Data."** Applications of Machine Learning in Big-Data Analytics and Cloud Computing. <a href="https://ieeexplore.ieee.org/document/9478284">River Publishers</a>, 2022. 139-163.</p>
-<p align="justify">4. Sagnika, Santwana, et al. **"Analytical Review on Techniques and Challenges in Sentiment Analysis."** <a href="https://www.igi-global.com/chapter/analytical-review-on-techniques-and-challenges-in-sentiment-analysis/309672">Empirical Research for Futuristic E-Commerce Systems: Foundations and Applications</a> (2022): 131-158.</p>
-<p align="justify">5. Das, Nilanjana, and Santwana Sagnika. **"A subjectivity detection-based approach to sentiment analysis."** Machine Learning and Information Processing: Proceedings of <a href="https://link.springer.com/chapter/10.1007/978-981-15-1884-3_14">ICMLIP 2019</a>. Springer Singapore, 2020.</p>
+<p align="justify">1. Das, Nilanjana, et al. <strong>"Change management using generative modeling on digital twins."</strong> 2023 IEEE International Conference on Intelligence and Security Informatics (<a href="https://ieee-isi.org/2023/">ISI</a>). IEEE, 2023.</p>
+<p align="justify">2. Kotal, Anantaa, Nilanjana Das, and Anupam Joshi. <strong>"Knowledge Infusion in Privacy Preserving Data Generation."</strong> <a href="https://aiisc.ai/kiml2023/index.html">KDD Workshop on Knowledge-infused Learning</a>, 29TH ACM SIGKDD,. 2023.</p>
+<p align="justify">3. Das, Nilanjana, Santwana Sagnika, and Bhabani Shankar Prasad Mishra. <strong>"Role of Machine Learning in Big Data."</strong> Applications of Machine Learning in Big-Data Analytics and Cloud Computing. <a href="https://ieeexplore.ieee.org/document/9478284">River Publishers</a>, 2022. 139-163.</p>
+<p align="justify">4. Sagnika, Santwana, et al. <strong>"Analytical Review on Techniques and Challenges in Sentiment Analysis."</strong> <a href="https://www.igi-global.com/chapter/analytical-review-on-techniques-and-challenges-in-sentiment-analysis/309672">Empirical Research for Futuristic E-Commerce Systems: Foundations and Applications</a> (2022): 131-158.</p>
+<p align="justify">5. Das, Nilanjana, and Santwana Sagnika. <strong>"A subjectivity detection-based approach to sentiment analysis."</strong> Machine Learning and Information Processing: Proceedings of <a href="https://link.springer.com/chapter/10.1007/978-981-15-1884-3_14">ICMLIP 2019</a>. Springer Singapore, 2020.</p>
 
 ## Research Experience
 
@@ -39,14 +39,14 @@ Email: ndas2 at umbc.edu
 ## Industry Experience
 **Assistant System Engineer @ Tata Consultancy Services Limited, India (August 2019 – July 2021)**
 
--  Strengthened technical skills in PL/SQL, HTML, JAVA, AJAX, JSP, and JavaScript to develop code and solve 3–4 defects per day promptly and efficiently.
--  Proficient in using TCS MasterCraft™ DevPlus, a tool for Scrum management.
+<p align="justify">-  Strengthened technical skills in PL/SQL, HTML, JAVA, AJAX, JSP, and JavaScript to develop code and solve 3–4 defects per day promptly and efficiently.</p>
+<p align="justify">-  Proficient in using TCS MasterCraft™ DevPlus, a tool for Scrum management.</p>
 
 **Software Engineer Trainee @ Aricent Technologies (Holdings) Limited, India (February 2019 – July 2019)**
 
--  Developed proficiency in writing test cases in Selenium and solved 100+ SonarQube issues during this internship.
--  Coded solutions to defects from Jira and played a key role in contributing to agile project management.
--  Did excessive code refactoring and drastically reduced the complexity of the existing code.
+<p align="justify">-  Developed proficiency in writing test cases in Selenium and solved 100+ SonarQube issues during this internship.</p>
+<p align="justify">-  Coded solutions to defects from Jira and played a key role in contributing to agile project management.</p>
+<p align="justify">-  Did excessive code refactoring and drastically reduced the complexity of the existing code.</p>
 
 ## News
 
