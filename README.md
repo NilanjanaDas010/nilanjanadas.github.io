@@ -1,8 +1,10 @@
 ## About me
 
-<p align="justify">I am currently a Ph.D. in Computer science student at the University of Maryland, Baltimore County (UMBC). My Ph.D. advisor is <a href="https://manasgaur.github.io/">Dr. Manas Gaur</a>. My current research focuses on situation-driven adversarial attacks on large language models (LLMs) like Llama-2.</p>
+<p align="justify">I am currently a Ph.D. in Computer Science student at the University of Maryland, Baltimore County (UMBC). My Ph.D. advisor is <a href="https://manasgaur.github.io/">Dr. Manas Gaur</a>. My current research focuses on situation-driven adversarial attacks on large language models (LLMs) like Llama-2.</p>
 
-<p align="justify">I have also done M.S. in Computer Science from the University of Maryland, Baltimore County (UMBC). My M.S. advisor was <a href="https://cybersecurity.umbc.edu/anupam-joshi/">Dr. Anupam Joshi</a>. My master's research focused on creating a digital twin on the cloud and designing functional tests using generative modeling.</p>
+<p align="justify">I am also concurrently pursuing M.S. in Computer Science from the University of Maryland, Baltimore County (UMBC). My M.S. advisor is <a href="https://cybersecurity.umbc.edu/anupam-joshi/">Dr. Anupam Joshi</a>. My master's research focuses on creating a digital twin for IoT devices on the cloud and designing functional tests using generative modeling.</p>
+
+#### Relevant Technical Skills: Python, Azure, AWS, Large Language Models
 
 [CV](/assets/img/Nilanjana-Das-CV.pdf)    [Google Scholar](https://scholar.google.com/citations?user=Mtt01lIAAAAJ&hl=en)
 
@@ -29,12 +31,10 @@ Email: ndas2 at umbc.edu
 
 ## Teaching Experience
 
-<p align="justify">Graduate Teaching Assistant (CMSC 426 Principles of Computer Security), UMBC (January 2024 - May 2024)</p>
-
-<p align="justify">Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (August 2023 - December 2023)</p>
-
-<p align="justify">Graduate Teaching Assistant (CMSC 441 Design and Analysis of Algorithms), UMBC (August 2021 - May 2022)</p>
-
+**Graduate Teaching Assistant @ Department of Computer Science and Electrical Engineering, UMBC**
+- Course: CMSC 426 Principles of Computer Security     (January 2024 - May 2024)
+- Course: CMSC 441 Design and Analysis of Algorithms   (August 2023 - December 2023)
+- Course: CMSC 441 Design and Analysis of Algorithms   (August 2021 - May 2022)
 
 ## Industry Experience
 <p align="justify">Assistant System Engineer @ Tata Consultancy Services Limited, India (August 2019 – July 2021)</p>
